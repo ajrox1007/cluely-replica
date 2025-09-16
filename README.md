@@ -24,7 +24,7 @@ A sophisticated desktop application that provides intelligent assistance through
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd free-cluely
+   cd cluely-replica
    ```
 
 2. **Install dependencies**
